@@ -3,9 +3,9 @@ import "./globals.css";
 import Header from "../components/Header";
 
 export const metadata: Metadata = {
-  title: "PP Crypto",
+  title: "Supplements sportifs - Informations sur les stéroïdes anabolisants",
   description:
-    "Educational platform about anabolic steroids and related substances.",
+    "Plateformes d'information sur les suppléments sportifs, y compris les stéroïdes anabolisants, leurs effets, risques et usages.",
 };
 
 export default function RootLayout({
